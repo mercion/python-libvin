@@ -4,7 +4,7 @@ import sys, os
 VERSION = '0.0.3'
 
 REQUIRES = [
-    'nose', 'requests',
+    'nose', 'requests','lxml'
 ]
 
 setup(name='libvin',

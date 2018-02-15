@@ -1,6 +1,11 @@
 python-libvin
 =============
 
+This is a FORK of the `libvin` library with some changes.
+
+This fork adds in support for using vegvessen (the norwegian ministry of motor vehicles) database
+to get more information about the car
+
 `libvin` is a python library which can decode Vehicle Identification Numbers.
 
 Currently it can extract these informations:
